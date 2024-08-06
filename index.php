@@ -12,6 +12,11 @@ include 'include/nav.php';
     </div>
 
     </div>
+    <section class="about" id="about">
+        
+        <h2>My first project</h2>
+        <p>Hallelujah junction, osogbo, osun state, Nigeria.</p>
+    </section>
 
 </section>
 <!-- header section ends here-->
